@@ -1,6 +1,6 @@
 vice > /dev/null <<EOF
 [Unit]
-  Description=celestia-appd Cosmos daemon
+  Description=celestia-appd Cosmos dae
   After=network-online.target
 [Service]
   User=$USER
